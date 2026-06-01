@@ -1,1 +1,93 @@
+# Global Store Sales & Return Analysis Dashboard
+
+## Project Overview
+
+This project analyzes Global Store retail data from 2011 to 2014 using Power BI. The objective was to uncover insights related to sales performance, profitability, customer behavior, regional performance, delivery efficiency, and product returns.
+
+The dashboard was designed to help business stakeholders identify growth opportunities, operational challenges, and areas for improving profitability.
+
+---
+
+## Tools Used
+
+* Power BI
+* Power Query
+* DAX
+* Microsoft Excel
+
+---
+
+## Dashboard Pages
+
+### 1. Overview Analysis
+
+* Sales Performance
+* Profit Performance
+* Customer Metrics
+* Order Metrics
+* Delivery KPIs
+
+### 2. Product Analysis
+
+* Category Performance
+* Sub-Category Performance
+* Profit Margin Analysis
+* Top and Bottom Performing Products
+
+### 3. Regional Analysis
+
+* Regional Sales Performance
+* Country-Level Analysis
+* Profit Contribution by Region
+
+### 4. Customer Analysis
+
+* Customer Segmentation
+* Repeat Customer Analysis
+* Average Order Value Analysis
+
+### 5. Return Analysis
+
+* Return Rate Analysis
+* Returned Sales Analysis
+* Profit Loss Analysis
+* Delivery Performance Analysis
+
+---
+
+## Key Business Insights
+
+* Sales and profit showed consistent year-over-year growth from 2011 to 2014.
+* Technology contributed approximately 45% of total profit, making it the most profitable category.
+* Central region generated the highest sales contribution (22%).
+* Consumer and Corporate segments contributed nearly 80% of total revenue.
+* Tables generated a loss of approximately 64K, indicating profitability concerns.
+* Return-related losses reached approximately 118K.
+* Furniture accounted for the highest share of returns (35%).
+* Standard Class shipping contributed the majority of sales but achieved only 60% on-time delivery performance.
+* Average returned order value was higher than the average order value, indicating that high-value orders are more likely to be returned.
+
+---
+
+## Business Recommendations
+
+1. Expand investment in high-margin Technology products.
+2. Investigate loss-making products such as Tables.
+3. Improve delivery performance for Standard Class shipments.
+4. Reduce return-related losses through product quality and return analysis.
+5. Focus marketing efforts on Consumer and Corporate customer segments.
+6. Improve customer satisfaction through better logistics and delivery management.
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Modeling
+* DAX Calculations
+* KPI Development
+* Business Analysis
+* Dashboard Design
+* Data Visualization
+* Data Storytelling
 
